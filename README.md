@@ -2,7 +2,7 @@
 
 A deep learning project that classifies IMDB movie reviews as **Positive** or **Negative** using a **Simple RNN** built with TensorFlow/Keras, served through an interactive **Streamlit** web app.
 
-🔗 **Live Demo:** [YOUR_STREAMLIT_APP_LINK](YOUR_STREAMLIT_APP_LINK)
+🔗 **Live Demo:** [[YOUR_STREAMLIT_APP_LINK](https://movie-review-sentiment-analysis-dl-rnn.streamlit.app/)]([YOUR_STREAMLIT_APP_LINK](https://movie-review-sentiment-analysis-dl-rnn.streamlit.app/))
 
 ---
 
